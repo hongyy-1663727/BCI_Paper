@@ -39,4 +39,6 @@ Contributed by
 </table>
 
 ## [Review](#table-of-contents)
-1.Brain Computer Interfaces, a Review. Sensor 2012 [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3304110/pdf/sensors-12-01211.pdf)
+1.**Brain Computer Interfaces, a Review.** Sensor 2012.  [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3304110/pdf/sensors-12-01211.pdf)
+
+*Luis Fernando Nicolas-Alonso * and Jaime Gomez-Gil*
